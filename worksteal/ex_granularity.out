@@ -1,0 +1,48 @@
+=== Performance Analysis ===
+Granularity: 0.1s
+Total work: 50.0s
+Wall time: 13.00s
+Speedup: 3.85x
+Efficiency: 96.2%
+
+=== Statistics ===
+Total tasks executed: 500
+Total tasks stolen: 14
+Steal rate: 2.8%
+Worker 0: executed=125, stolen=0, queue=0
+Worker 1: executed=125, stolen=7, queue=0
+Worker 2: executed=125, stolen=2, queue=0
+Worker 3: executed=125, stolen=5, queue=0
+
+=== Performance Analysis ===
+Granularity: 0.5s
+Total work: 50.0s
+Wall time: 13.00s
+Speedup: 3.85x
+Efficiency: 96.2%
+
+=== Statistics ===
+Total tasks executed: 100
+Total tasks stolen: 13
+Steal rate: 13.0%
+Worker 0: executed=25, stolen=2, queue=0
+Worker 1: executed=25, stolen=8, queue=0
+Worker 2: executed=25, stolen=3, queue=0
+Worker 3: executed=25, stolen=0, queue=0
+
+=== Performance Analysis ===
+Granularity: 2.0s
+Total work: 50.0s
+Wall time: 15.00s
+Speedup: 3.33x
+Efficiency: 83.3%
+
+=== Statistics ===
+Total tasks executed: 25
+Total tasks stolen: 1
+Steal rate: 4.0%
+Worker 0: executed=7, stolen=1, queue=0
+Worker 1: executed=6, stolen=0, queue=0
+Worker 2: executed=6, stolen=0, queue=0
+Worker 3: executed=6, stolen=0, queue=0
+

@@ -7,6 +7,8 @@ syllabus:
 -   FIXME
 ---
 
+**In Development**
+
 -   `push_simple.py`: observables push notifications, execution is immediate
 -   `push_buggy.py`: infinite recursion
 -   `push_origin.py`: keep track of originator to avoid cycles

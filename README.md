@@ -54,10 +54,6 @@ and better able to use them well.
 1.  [Undo and Redo](@/undo/)
 1.  [A Virtual Machine](@/vm/)
 1.  [A Debugger](@/debugger/)
-1.  [Observers](@/observe/)
-1.  [Generating Documentation](@/docgen/)
-1.  [A File Cache](@/cache/)
-1.  [Concurrency](@/concur/)
 1.  [Conclusion](@/finale/)
 </div>
 
@@ -74,6 +70,23 @@ and better able to use them well.
 1.  [Glossary](@/glossary/)
 1.  [Syllabus](@/syllabus/)
 1.  [Bonus Material](@/bonus/)
+1.  [Observers](@/observe/)
+1.  [Generating Documentation](@/docgen/)
+1.  [A File Cache](@/cache/)
+1.  [Concurrency](@/concur/)
+1.  [MapReduce](@/mapreduce/)
+1.  [A Publish-Subscribe Message Queue](@/msgque/)
+1.  [A Work-Stealing Scheduler](@/worksteal/)
+1.  [Distributed Tracing](@/tracing/)
+1.  [Conflict-Free Replicated Data Types](@/crdt/)
+1.  [OAuth](@/oauth/)
+1.  [Distributed Locks](@/distlock/)
+1.  [BitTorrent](@/torrent/)
+1.  [Eventually Consistent Key-Value Store](@/eventual/)
+1.  [The Saga Pattern](@/saga/)
+1.  [TCP](@/tcp/)
+1.  [DNS](@/dns/)
+1.  [NTP](@/ntp/)
 </div>
 
 </div>
